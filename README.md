@@ -3,7 +3,7 @@ Focus Timer App, GDSC Project
 
 Team Members
 Mihika Pandit,
-Aishwarya Patil ,
+Aishwarya Patil,
 Janhavi Patil,
 Shardula Raghamwar
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
